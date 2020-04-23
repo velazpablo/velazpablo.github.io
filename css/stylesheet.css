@@ -1,0 +1,100 @@
+
+body, html {
+    height: 100%;
+}
+
+/* Users style */
+#users {
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 30px;
+}
+#rows1{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+#rows2{
+    padding-top: 40px;
+}
+
+
+.hero {
+    background-color: rgb(32, 32, 32);
+    color: whitesmoke;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 150px;
+    padding-top: 100px;
+}
+
+.hero h5 {
+    font-weight: 100;
+}
+
+.navbar {
+    background-color: rgb(32, 32, 32) !important;
+}
+
+.blog-content {
+    margin-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+@media (min-width: 1200px) { 
+    .blog-content{
+        padding-left: 400px;
+        padding-right: 400px;
+    }       
+}
+
+a:hover {
+    color: rgb(32, 32, 32);
+}
+
+#post-header {
+    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+a {
+    color: black;
+}
+
+.post-subtitle {
+    font-weight: 100;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.blog {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.masterhead {
+    margin-top: 10px;
+}
+
+.blog-content p li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 35px;
+}
+
+.blog-content {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.blog-content a {
+    font-weight: 500;
+}
+
+
+
+
+
