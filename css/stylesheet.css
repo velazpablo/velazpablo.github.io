@@ -50,11 +50,19 @@
 }
 
 
-@media (min-width: 1000px) { 
+
+
+@media (min-width: 1200px) { 
     .blog-content{
         margin-left: 300px;
         margin-right: 300px;
-    }       
+    }
+}
+
+@media (max-width: 600px) { 
+    .blog-content p {
+        font-size: 18px;
+    }
 }
 
 a:hover {
