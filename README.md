@@ -1,0 +1,2 @@
+# Final Project for Team 5 - COM 203 Computer Systems
+This is Team 5 final website project which reflects the in-class activities and experiences throughout the course in form of a basic Boostrap blog, using HTML and CSS. 
